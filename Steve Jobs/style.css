@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: ;
+}
+
+.logo {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    background-color: black;
+}
+.logo a{
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.video{
+    background-size: cover;
+}
+
+.text{
+    padding-left: 25%;
+    padding-bottom: 8%;
+}
+
+.hpage{
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+
+.bio{
+    background-color: black;
+    color: white;
+    padding-left: 15%;
+    
+}
+
+.footer{
+    text-align: center;
+}
